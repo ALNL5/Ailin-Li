@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color:#EAF6F6;
+}
+
+hr {
+    border-style: none;
+    height: 2px;
+    width: 4%;
+    border-top: 7px dotted lightgrey;
+}
+
+#profile-img {
+    height: 200px;
+}
+
+.top-container {
+
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+}
+
+h1 {
+    margin: 0;
+}
+
+h1, h3, h3>a {
+    color:#66bfbf;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8EC3B0;
+}
